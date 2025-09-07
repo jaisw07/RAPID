@@ -54,8 +54,6 @@ To get a local copy of this project up and running, follow these steps to recrea
 
 ### Dataset
 
-The model in this project was trained and validated on the publicly available **"Cracks and Potholes in Road Images"** dataset. This dataset provides a collection of road images with pixel-level annotations for cracks and potholes, which is essential for training the semantic segmentation models.
-
 Passos, Bianka T.; Cassaniga, Mateus J.; Fernandes, Anita M. R. ; Medeiros, Kátya B. ; Comunello, Eros (2020), “Cracks and Potholes in Road Images”, Mendeley Data, V4, doi:10.17632/t576ydh9v8.4
 
 -----
