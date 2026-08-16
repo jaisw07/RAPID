@@ -22,6 +22,15 @@ The RAPID system is a novel solution that bridges the gap between raw data colle
 
 -----
 
+### Demo
+
+
+https://github.com/user-attachments/assets/b91f9891-aa20-4136-a796-6ccfd68b8b2a
+
+
+
+-----
+
 ### Getting Started
 
 To get a local copy of this project up and running, follow these steps to recreate the Conda environment.
